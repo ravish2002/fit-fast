@@ -974,7 +974,7 @@ nav {
   content: "Gallery";
   position: absolute;
   top: -3rem;
-  left: 0;  /* Ensure it starts from the left */
+  left: 0;  /* it starts from the left */
   font-size: 6rem;
   font-weight: 800;
   color: rgba(255, 255, 255, 0.1);
@@ -1287,10 +1287,10 @@ footer */
 }
 
 /* old style */
-/* Add this to your CSS */
+
 @media (max-width: 768px) {
   .header__container {
-    padding-top: 100px; /* Add spacing below fixed navbar */
+    padding-top: 100px; /* spacing below fixed navbar */
     min-height: 100vh;
   }
   
