@@ -1070,8 +1070,8 @@ nav {
 
 @media (max-width: 480px) {
   .responsive-logo {
-    width: 50px !important;
-    height: 50px !important;
+    width: 80px !important;
+    height: 80px !important;
   }
 }
 
