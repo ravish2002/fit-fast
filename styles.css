@@ -295,7 +295,7 @@ nav {
   }
 
   .about__image img {
-    max-width: 450px; /* Slightly smaller image on mobile */
+    max-width: 500px; /* Slightly smaller image on mobile */
   }
 }
 
