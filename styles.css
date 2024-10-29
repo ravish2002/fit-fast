@@ -259,7 +259,7 @@ nav {
 }
 
 .about__image img {
-  max-width: 500px;
+  max-width: 550px;
   width: 100%;
   display: block;
   margin: 0 auto; /* Center the image */
@@ -295,7 +295,7 @@ nav {
   }
 
   .about__image img {
-    max-width: 400px; /* Slightly smaller image on mobile */
+    max-width: 450px; /* Slightly smaller image on mobile */
   }
 }
 
